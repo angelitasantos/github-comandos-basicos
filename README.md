@@ -1,7 +1,7 @@
 ### Digital Innovation One - GitHub Comandos Basicos
 #### Aula pratica de Git x Github 01 de junho de 2020
 #### Atualizado em 15 de novembro de 2022 (Python/Django)
-#### Lista de comandos úteis Git x Github
+#### Lista de comandos Git x Github
 
 <header>
     <h1>Git x GitHub</h1>
