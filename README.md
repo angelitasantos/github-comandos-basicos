@@ -4,7 +4,6 @@
 #### Lista de comandos úteis Git x Github
 
 <header>
-    <h4>Digital Innovation One</h4>
     <h1>Git x GitHub</h1>
     <h2>Comandos Básicos</h2>
 </header>
