@@ -1,1 +1,1 @@
-web: gunicorn github:wsgi
+web: gunicorn github.wsgi
